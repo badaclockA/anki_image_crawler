@@ -1,0 +1,13 @@
+.venv
+output.html
+__pycache__
+*.pyc
+*.csv
+*.log
+*.pkl
+*.db
+*.db-shm
+*.db-wal
+*.zip
+.vscode/
+cs_signature_cache.json
